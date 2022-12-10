@@ -24,7 +24,7 @@
         transition: 0.5s all;
         &:hover {
             border: none;
-            box-shadow: 2px 2px 15px $main-color;
+            box-shadow: 2px 2px 15px gray;
         }
         div {
             transform: skewX(25deg);
